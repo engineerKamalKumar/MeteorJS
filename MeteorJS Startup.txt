@@ -1,0 +1,12 @@
+MeteorJS Startup
+
+1. Install the MeteorJS by following the Official Website, i.e. Meteor.com ( https://www.meteor.com/install )
+2. After successfully installation, open the CMD window, i.e. Command Prompt Window
+3. Access you Directory or Sub-directory by following cd or cd.. Commands
+4. Then type meteor create your_application_name and hit enter, for e.g. say meteor create app-demo
+5. Then  type cd your_application_name and hit enter
+6. Then simply type meteor
+	a. It will start Proxy Server
+	b. It will start MongoDB Server
+	c. And then it will start Your Application
+7. Your application will run at http://localhost:3000/
