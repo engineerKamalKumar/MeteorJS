@@ -1,0 +1,40 @@
+MeteorJS contains these default files while running a single Application
+
+		i. underscore.js
+		ii. meteor.js
+		iii. json.js
+		iv. base64.js
+		v. ejson.js
+		vi. logging.js
+		vii. reload.js
+		viii. tracker.js
+		ix. random.js
+		x. retry.js
+		xi. check.js
+		xii. id-map.js
+		xiii. ordered-dict.js
+		xiv. geojson-utils.js
+		xv. minimongo.js
+		xvi. ddp.js
+		xvii. insecure.js
+		xviii. mongo.js
+		xix. autoupdate.js
+		xx. meteor-platform.js
+		xxi. autopublish.js
+		xxii. webapp.js
+		xxiii. deps.js
+		xxiv. reactive-dict.js
+		xxv. session.js
+		xxvi. livedata.js
+		xxvii. jquery.js
+		xxviii. htmljs.js
+		xxix. observe-sequence.js
+		xxx. reactive-var.js
+		xxxi. blaze.js
+		xxxii. ui.js
+		xxxiii. templating.js
+		xxxiv. spacebars.js
+		xxxv. launch-screen.js
+		xxxvi. global-imports.js
+		
+Also containing  >>template.app.js( While using templates ) and >>app.js( Default application folder name )
